@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I'm Ofir 😎</h1>
-<h3 align="center"> Industrial Engineering & Management Student|Hand's on Data Analyst</h3>
+<h3 align="center"> Industrial Engineering & Management Student| Hand's on Data Analyst</h3>
 <img align="right" alt="Coding" width="450" src="https://www.springboard.com/library/static/c8a8b68015e12fea64edae0ab4e9dd71/1f368/shutterstock_1814645042.jpg">
 
 
@@ -29,6 +29,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="python" width="40" height="40"/> <img src="https://jupyter.org/assets/share.png" alt="Jupyter-notebook" width="70" hight="60"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="python" width="40" height="40"/> <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Microsoft-Excel-Mac-icon.png" alt="Jupyter-notebook" width="70" hight="60"/> </a>
 
 
