@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I'm Ofir 😎</h1>
-<h3 align="center"> in Industrial Engineering & Management|Hand's on Data Analyst</h3>
+<h3 align="center"> Industrial Engineering & Management Student|Hand's on Data Analyst</h3>
 <img align="right" alt="Coding" width="450" src="https://www.springboard.com/library/static/c8a8b68015e12fea64edae0ab4e9dd71/1f368/shutterstock_1814645042.jpg">
 
 
@@ -10,22 +10,21 @@
 
 - 👀 I’m interested in **Data analysis **
 
-- 🌱 I code mostly in **Python & SQL**
+- 🌱 I code mostly in **Java & SQL**
 
 - 💞️ I am looking for collaborations in: **Analyzing Data, learning new things and facing new challenges**.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ofer-bentzvi-5741601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ofer-bentzvi-5741601" height="30" width="40" /></a>
-<a href="https://fb.com/ofer ben tzvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ofer ben tzvi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ofir-topchy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ofer-bentzvi-5741601" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ofir.topchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ofer ben tzvi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Goals for 2022:</h3> </p>
+<h3 align="left">Goals for 2023:</h3> </p>
 
-- Upload 3 EDA projects on different topics.
-- Attach 2 more SQL challenges.
-- Present practices in ML.
+- Upload  EDA and Visualization project.
+- Attach  more SQL challenges.
 - Upload practices for writing in Python.
 
 
