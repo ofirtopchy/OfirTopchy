@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OfirTopchy&label=Profile%20views&color=0e75b6&style=flat" alt="OfirTopchy" /> </p>
 <h3 align="left">About me:</h3> </p>
 
-- 👋I'm Ofir BSc Student (3rd-year) in Industrial Engineering & Management – Ben Gurion University. Full of passion for data and technology, I immensely enjoy    extracting insights from raw data. 
+- 👋I'm Ofir a BSc Student (3rd-year) in Industrial Engineering & Management – Ben Gurion University. Full of passion for data and technology, I immensely enjoy    extracting insights from raw data. 
 
 - 👀 I’m interested in **Data analysis **
 
