@@ -8,7 +8,7 @@
 
 - 👋I'm Ofir a BSc Student (4th-year) in Industrial Engineering & Management – Ben Gurion University. Full of passion for data and technology, I immensely enjoy    extracting insights from raw data. 
 
-- 👀 I’m interested in **Data analysis **
+- 👀 I’m interested in **Data analysis**
 
 - 🌱 I code mostly in **Java, Python and SQL**
 
