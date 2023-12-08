@@ -10,10 +10,11 @@
 
 - 👀 I’m interested in **Data analysis **
 
-- 🌱 I code mostly in **Java & SQL**
+- 🌱 I code mostly in **Java, Python and SQL**
 
 - 💞️ I am looking for collaborations in: **Analyzing Data, learning new things and facing new challenges**.
 
+-  🔥 In accordance with what is essential in data field, you can find here projects in sql, visualization, static tests and more
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
